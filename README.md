@@ -5,7 +5,8 @@ It replicates a dummy sign-up form based on a provided design.
 
 ## Tasks
 
-- [ ] Basic layout
+- [x] Basic layout
+- [x] Apply universal CSS Base
 - [ ] Style sidebar
 - [ ] Style form and buttons
 - [ ] Validation styles
