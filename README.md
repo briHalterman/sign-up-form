@@ -3,15 +3,6 @@
 This is a project from The Odin Project's Intermediate HTML & CSS course.
 It replicates a dummy sign-up form based on a provided design.
 
-## Tasks
+## Image Credit
 
-- [x] Basic layout
-- [x] Apply universal CSS Base
-- [ ] Style sidebar
-- [ ] Style form and buttons
-- [ ] Validation styles
-- [ ] Final polish and clean-up
-
-## Credits
-
-- Photo by <a href="https://unsplash.com/@airamdphoto?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Airam Dato-on</a> on <a href="https://unsplash.com/photos/a-wooden-table-topped-with-lots-of-cheese-and-fruit-O0jsj8JCxPc?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+Photo by [Airam Dato-on](https://unsplash.com/@airamdphoto) on [Unsplash](https://unsplash.com/photos/O0jsj8JCxPc)
